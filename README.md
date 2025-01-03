@@ -2,7 +2,7 @@
 
   <h3 align="center">Parallax Scrolling 3D Website using HTML CSS & Javascript</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/TheWoods/blob/1ff691aa9fa131d10bd829da61d5334ec49fc406/TheWoods.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
